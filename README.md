@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge]" height="25" alt="linkedin logo"  />
+  <img src="[https://icons8.com/icon/kFJzAZryEscq/linkedin-circled](https://img.icons8.com/?size=96&id=kFJzAZryEscq&format=gif)" height="55" alt="linkedin logo" link='https://www.linkedin.com/in/lakshya-asthana-132941292/'  />
 </div>
 
 ###
